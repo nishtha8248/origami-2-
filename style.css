@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    background-color: aquamarine;
+}
+.grid{
+    display: flex;
+    background-color: darkseagreen;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.origami{
+    font-size:medium ;
+    border: radius 20px;;
+    font-style:oblique;
+}
